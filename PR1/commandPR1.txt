@@ -1,0 +1,4 @@
+vi number_{0}.l
+lex number_{0}.l
+gcc lex.yy.c -lfl
+./a.out

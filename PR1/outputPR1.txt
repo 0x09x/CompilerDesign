@@ -1,0 +1,14 @@
+ONE
+1
+one
+1
+TWO one
+2 1
+two
+2
+ZEro
+ZEro
+ZERO
+0
+FOUR
+4
