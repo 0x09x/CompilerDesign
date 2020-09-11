@@ -1,4 +1,2 @@
-vi counting_{0}.l
-lex counting_{0}.l
-gcc lex.yy.c -lfl
-./a.out
+vi counting_{2}.l
+lex counting_{2}.l
