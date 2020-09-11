@@ -1,4 +1,4 @@
-coutinf No of lines spaces words and characters
+counting No of lines spaces words and characters
 
  No. of New Lines : 1
  No. of Total Words : 8
