@@ -1,4 +1,4 @@
-vi number_{userName}.l
-lex number_{userName}.l
+vi number_{2}.l
+lex number_{2}.l
 gcc lex.yy.c -lfl
 ./a.out
