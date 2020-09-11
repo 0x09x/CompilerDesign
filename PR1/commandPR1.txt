@@ -1,4 +1,2 @@
 vi number_{2}.l
 lex number_{2}.l
-gcc lex.yy.c -lfl
-./a.out
