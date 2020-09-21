@@ -1,5 +1,3 @@
 vi abc.txt
 vi longest_{2}.l
 lex longest_{2}.l
-gcc lex.yy.c -lfl
-./a.out
