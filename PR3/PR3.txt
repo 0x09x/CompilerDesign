@@ -1,0 +1,19 @@
+%{
+#include <stdio.h>
+int k=0;
+%}
+
+%%
+[a-zA-Z]+ {
+if(yyleng>k){
+   k = yyleng;
+}
+}
+%%
+
+int main(){
+yyin = fopen("abc.txt", "r");
+yylex();
+printf("Largest : %d\n", k);
+return 0;
+}
