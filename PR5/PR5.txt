@@ -1,0 +1,15 @@
+%{
+#include<stdio.h>
+%}
+
+reg (b|ab*a)*ab*
+
+%%
+{reg} printf("%s Accepted", yytext);
+.* printf("%s Not Accepted", yytext);
+%%
+
+int main(){
+yylex();
+return 0;
+}

@@ -1,0 +1,2 @@
+vi oddNos_{2}.l
+lex oddNos_{2}.l
