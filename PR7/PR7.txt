@@ -19,7 +19,6 @@ CM	total = 900;
 M	total = 1000;
 {WS}
 \n return total;
-\n
 %%
 
 int main(){
