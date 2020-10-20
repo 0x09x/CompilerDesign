@@ -1,0 +1,4 @@
+Enter the String of Vowels and Consonants : Stars in the Sky
+
+Number of Vowels are : 3
+Number of Consonants are : 10
